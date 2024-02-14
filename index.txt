@@ -1,0 +1,132 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Neeraj Shukla
+Neeraj Shukla
+Tech Enthusiast
+
+Show Contacts
+
+Email
+neerajshuklasmailbox@gmail.com
+
+Phone
++1 (709) 341-7368
+
+Location
+Memorial University of Newfoundland, Canada
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+Hi all, I'm Neeraj, a tech enthusiast, software engineer, and data analyst by profession 🚀. I specialize in data-driven solutions, crafting strategies for your business growth 📈. A tech enthusiast with a passion for data analysis, data science, and blockchain technologies. I'm passionate about turning complex problems into simple, beautiful, and intuitive designs.
+
+## service
+
+What i'm doing
+
+alt = data-analysis icon
+Data Analysis
+Perform Data Analysis and Visualization to derive meaningful insights.
+
+alt = data-science icon
+Data Science
+Implement Machine Learning algorithms for predictive analytics.
+
+alt = blockchain icon
+Blockchain
+Develop Blockchain solutions and Smart Contracts for secure transactions.
+
+alt = web-development icon
+Web Development
+Create interactive Front-end and User Interfaces for applications.
+
+## testimonials
+
+Testimonials
+
+[Include any personal testimonials you might have, or you can remove this section if not applicable.]
+
+## clients
+
+Clients
+
+[Include any client logos or names here, or you can remove this section if not applicable.]
+
+# resume
+
+Resume
+
+Education
+
+Memorial University of Newfoundland, Canada
+Master of Science, Computer Science
+Sept 2022 - Jul 2024
+GPA: 3.82 / 4.0
+
+Technocrats Institute of Technology Excellence, India
+Bachelor of Engineering, Computer Science & Engineering
+Aug 2016 - Jul 2020
+GPA: 3.30 / 4.0
+
+Experience
+
+Data Analyst
+National Research Council
+Sept 2023 – Present
+Managing and analyzing data using Microsoft Excel and Power BI.
+
+Software Developer
+Infinite Computer Solutions
+Aug 2022 – Dec 2022
+Led Salesforce development project, increasing field service efficiency by 20%.
+
+Associate Software Developer
+DXC Technology
+Jul 2020 – Aug 2022
+Oversaw design and development of enterprise-level projects for Hewlett Packard Enterprise.
+
+My skills
+
+Business Analytics
+90%
+Web Development
+85%
+Cloud Implementation
+80%
+CRM Implementation
+75%
+
+# portfolio
+
+Portfolio
+
+[Include details of your projects here, similar to the provided structure, or you can remove this section if not applicable.]
+
+# blog
+
+Blog
+
+[Include details of your blogs here, similar to the provided structure, or you can remove this section if not applicable.]
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
